@@ -1,4 +1,6 @@
-Live demo: https://sleepy-goldwasser-ae6833.netlify.app/
+## Live demo:
+
+https://duynghia-123.github.io/Covid-19-Tracker/
 
 # Getting Started with Create React App
 
